@@ -1,0 +1,9 @@
+{
+  "neurokit2_version": "0.2.13",
+  "heartpy_version": "Version 1.2.6",
+  "eda_minutes": 10323,
+  "eda_sessions": 116,
+  "hrv_windows": 15211,
+  "hrv_candidate_windows": 0,
+  "hrv_candidate_sessions": 0
+}
